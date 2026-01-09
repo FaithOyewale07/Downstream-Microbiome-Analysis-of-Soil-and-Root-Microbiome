@@ -7,3 +7,4 @@ Alpha diversity Indices
 Kruskal Walis Test
 Anova
 Beta diversity
+Bray-Curtis Dissimilarity
